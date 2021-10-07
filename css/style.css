@@ -1,11 +1,11 @@
 :root{
     --primary-color: #001e43;
     --secondary-color:#ff993b;
-    --dark-color:#300000;
+    --dark-color:#cc7782;
     --white-color: #dfe3e4;
 }
 body{
-    color: var(--dark-color);
+    
 }
 main>.container {
     padding: 60px 15px 0;
@@ -52,7 +52,7 @@ footer .social>a:hover  {
 .fa-css3-alt{
     color: rgb(9, 112, 247);
 }
-.fa-li{
+.fa-check-square{
     color:var(--dark-color);
 }
 
